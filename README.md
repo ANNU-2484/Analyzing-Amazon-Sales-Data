@@ -23,6 +23,7 @@ Click the tale place right click new measurements
 >
 >//create a new colom Week = WEEKNUM('Date Table'[Date])
 >
+>This is a link of dashboard (  https://app.powerbi.com/view?r=eyJrIjoiMWRhY2Y1ODctYzE0NC00OWJkLThjMDctOGVjZmUwODI2MTA5IiwidCI6IjFiOGQ5MjVhLTA3ZDQtNDdlNi1hODRlLTJmYWNiNjRlOTdhOSJ9)
 >
 this are showing like that 
 
