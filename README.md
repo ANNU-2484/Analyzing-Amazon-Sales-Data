@@ -25,4 +25,5 @@ Click the tale place right click new measurements
 >
 >
 this are showing like that 
-![Image Alt](
+
+![Image Alt](https://github.com/ANNU-2484/Analyzing-Amazon-Sales-Data/blob/main/Screenshot%202025-07-13%20145205.png?raw=true)
